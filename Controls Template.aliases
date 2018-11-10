@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "18.58.7.98"
+
+[NI-myRIO]
+NI-myRIO = "172.22.11.2"
+
+[RT PXI Target]
+RT PXI Target = "10.0.0.2"
+
